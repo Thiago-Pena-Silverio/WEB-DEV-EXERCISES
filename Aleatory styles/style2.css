@@ -1,0 +1,21 @@
+h1{
+    font-family: "'times', 'serif'";  
+    Color:#0f0066; 
+    text-align: center;
+    border-style: solid;
+}
+.titulo{
+     Color:#660066; text-align:right; 
+}
+#meu_titulo {
+    font-size:200%; text-align:left
+}
+body{ background-image: url("https://upload.wikimedia.org/wikipedia/pt/6/61/Breaking_Bad_title_card.png");
+    background-repeat:no-repeat;
+    background-size: 100%; 
+}
+
+#imagem{
+    width: 300px; height: 300px; margin-left: 50%;
+   
+}
