@@ -13,15 +13,15 @@ A collection of exercises developed during the Web Development module, covering 
 
 📁 **Folders:**
 
-**Aleatory Styles:** CSS exercises using various selectors and styling techniques, including themed pages for Final Fantasy, Mario, and Metal Gear Solid
+**css-selectors:** CSS exercises using various selectors and styling techniques, including themed pages for Final Fantasy, Mario, and Metal Gear Solid
 
-**JS Condicionais:** JavaScript exercises focused on conditional logic using if/else statements
+**javascript-conditionals:** JavaScript exercises focused on conditional logic using if/else statements
 
-**JS Repetições:** JavaScript exercises focused on loops and iteration, including a multiplication table generator
+**javascript-loops:** JavaScript exercises focused on loops and iteration, including a multiplication table generator
 
-**Functions:** JavaScript exercises focused on building and calling functions, including form interactions and input validation
+**javascript-functions:** JavaScript exercises focused on building and calling functions, including form interactions and input validation
 
-**Bootstrap PW:** Exercise building a profile/portfolio page using the Bootstrap framework
+**bootstrap-profile:** Exercise building a profile/portfolio page using the Bootstrap framework
 
 🛠️ **Tech Stack:**
 
