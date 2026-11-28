@@ -1,36 +1,35 @@
-# WEB-DEV-EXERCISES
+# Web Development Exercises
+
 Web Development exercises collection from the Web Development module - university assignments
 
 > ⚠️ **Note:** This project was developed for academic purposes and the content is written in Portuguese.
 
 ---
 
-**Name of the repository:** Web Dev Exercises
-
-🎓 **Context:**
+## 🎓 Context
 
 A collection of exercises developed during the Web Development module, covering fundamental topics such as CSS styling, JavaScript logic, and Bootstrap framework. Each folder represents a different topic practiced throughout the course.
 
-📁 **Folders:**
+## 📁 Folders
 
-**css-selectors:** CSS exercises using various selectors and styling techniques, including themed pages for Final Fantasy, Mario, and Metal Gear Solid
+**[css-selectors](css-selectors/):** CSS exercises using various selectors and styling techniques, including themed pages for Final Fantasy, Mario, and Metal Gear Solid
 
-**javascript-conditionals:** JavaScript exercises focused on conditional logic using if/else statements
+**[javascript-conditionals](javascript-conditionals/):** JavaScript exercises focused on conditional logic using if/else statements
 
-**javascript-loops:** JavaScript exercises focused on loops and iteration, including a multiplication table generator
+**[javascript-loops](javascript-loops/):** JavaScript exercises focused on loops and iteration, including a multiplication table generator
 
-**javascript-functions:** JavaScript exercises focused on building and calling functions, including form interactions and input validation
+**[javascript-functions](javascript-functions/):** JavaScript exercises focused on building and calling functions, including form interactions and input validation
 
-**bootstrap-profile:** Exercise building a profile/portfolio page using the Bootstrap framework
+**[bootstrap-profile](bootstrap-profile/):** Exercise building a profile/portfolio page using the Bootstrap framework
 
-🛠️ **Tech Stack:**
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-🎖️ **Features:**
+## 🎖️ Features
 
 - CSS selector combinations and styling 🎨
 
@@ -44,7 +43,7 @@ A collection of exercises developed during the Web Development module, covering 
 
 ---
 
-🖥️ **How to Run**
+## 🖥️ How to Run
 
 **Requirements:**
 
